@@ -1,5 +1,7 @@
 # 🚀 awesome-prompts-zh
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github)](https://github.com/sponsors/lyx05)
+
 **2026 年高质量中文 Prompt 合集**  
 持续更新 · 欢迎贡献 · 欢迎赞助
 
